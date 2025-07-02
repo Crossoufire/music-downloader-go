@@ -27,7 +27,7 @@ go.work.sum
 # env file
 .env
 
-*/config.json
+config.json
 
 .idea/
 .vscode/
